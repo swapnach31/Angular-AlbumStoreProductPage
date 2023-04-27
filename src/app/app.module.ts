@@ -23,7 +23,7 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     ProductPageComponent,
-    ProductDescriptionComponent
+    ProductDescriptionComponent,
     ProductTracklistingComponent,
     ProductListComponent
   ],
